@@ -1,7 +1,9 @@
 👋 Hi, I'm Samhita!
 
 🎓 B.Tech Student | Aspiring AI/ML Engineer
+
 💻 Web Developer | Problem Solver | Tech Enthusiast
+
 🌱 Passionate about building technology that creates social impact
 
 🚀 About Me
