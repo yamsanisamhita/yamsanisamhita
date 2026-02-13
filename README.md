@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hi, I'm Samhita!
 
-<!--
-**yamsanisamhita/yamsanisamhita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student | Aspiring AI/ML Engineer
+💻 Web Developer | Problem Solver | Tech Enthusiast
+🌱 Passionate about building technology that creates social impact
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Currently improving my coding skills and diving deeper into AI & Machine Learning
+🧠 Interested in AI/ML, Cybersecurity, and Software Development
+🤝 Actively involved in technical clubs, hackathons, and community-driven projects
+💡 I enjoy turning real-world problems into tech solutions
+
