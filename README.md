@@ -9,7 +9,7 @@
 ## 🚀 **About Me**
 
 - 🔍 **Currently improving** my coding skills and diving deeper into **AI & Machine Learning**
-- 🧠 **Interested in** AI/ML, Cybersecurity, and Software Development
+- 🧠 **Interested in** AI/ML and Web Development
 - 🤝 **Actively involved** in technical clubs, hackathons, and community-driven projects
 - 💡 **I enjoy turning** real-world problems into impactful tech solutions
 
