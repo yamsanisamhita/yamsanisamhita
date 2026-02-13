@@ -15,28 +15,13 @@
 
 ---
 
-## 🛠️ **Tech Stack**
+## 🌟 **Interests**
 
-### **Languages**
-- Java  
-- Python  
-- JavaScript  
-
-### **Frontend**
-- HTML  
-- CSS  
-- Bootstrap  
-- React.js  
-
-### **Databases**
-- MySQL  
-- Oracle Database  
-
-### **Tools**
-- Git  
-- VS Code  
-- MATLAB  
-- Tableau  
+- 🤖 Artificial Intelligence & Machine Learning  
+- 💻 Software & Web Development  
+- 🌍 Technology for Social Good  
+- 🛠️ Open Source Contributions & Collaborative Development  
+- 🏆 Hackathons & Competitive Tech Events  
 
 ---
 
