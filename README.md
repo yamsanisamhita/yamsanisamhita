@@ -25,4 +25,11 @@
 
 ---
 
+## 📫 **Connect With Me**
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/samhita-yamsani-325637295/ 
+- 📧 **Email:** samhitayamsani@gmail.com 
+
+---
+
 ✨ *“Learning never exhausts the mind — it only sharpens it.”*
